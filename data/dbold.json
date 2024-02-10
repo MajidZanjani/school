@@ -1,0 +1,94 @@
+{
+  "blogPosts": [
+    {
+      "id": 1,
+      "title": "First Post",
+      "date": "01/Jan/2024",
+      "author": "Majid Zanjani",
+      "poster": "/assets/images/blogImages/01.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ipsum erat, faucibus quis ante sit amet, vehicula venenatis nunc. Fusce a magna arcu. Vestibulum nisl mauris, tincidunt at blandit sed, porta eu ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sit amet mi at enim volutpat ornare. Cras a vehicula est, id elementum leo. Etiam et metus interdum, accumsan turpis at, pharetra nisl. Suspendisse ultricies arcu non libero tempor, quis efficitur nibh euismod. Donec non risus a turpis convallis commodo in in diam. Nunc finibus dolor ut auctor egestas. Ut a libero sit amet metus tincidunt dignissim. Nam et diam nibh. Fusce scelerisque sodales lectus, quis dignissim ipsum interdum eu. Aenean varius urna eget urna tempor, vel vehicula orci ultrices. Pellentesque vulputate feugiat molestie. Vivamus eu facilisis ante. Donec vel accumsan odio. In gravida mi elit, non pretium lacus pellentesque vel. Integer a porta dolor. Donec dapibus auctor ligula at egestas.Sed tempor est purus, ac faucibus enim eleifend et. Donec tempor mollis elit sed euismod. Donec bibendum nisi nisi. Sed eget vehicula ex. Integer efficitur aliquet justo, sit amet rhoncus orci egestas a. Duis nisi mauris, pellentesque at ante a, interdum ornare dui. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla in arcu a massa ullamcorper cursus sit amet in erat. Etiam vel placerat magna. Cras placerat placerat sodales. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae diam bibendum, congue ante eget, lobortis nunc. Curabitur porta dictum ex a euismod. Phasellus eu nibh sed metus eleifend accumsan. Nullam id lacus viverra, semper justo non, vulputate lacus. Donec convallis, nulla nec pulvinar elementum, mauris libero venenatis mi, nec luctus justo libero non ipsum."
+    },
+    {
+      "id": 2,
+      "title": "Second Post",
+      "date": "09/Jan/2024",
+      "author": "Majid Zanjani",
+      "poster": "/assets/images/blogImages/02.png",
+      "description": "Vivamus sit amet mi at enim volutpat ornare. Cras a vehicula est, id elementum leo. Etiam et metus interdum, accumsan turpis at, pharetra nisl. Suspendisse ultricies arcu non libero tempor, quis efficitur nibh euismod. Donec non risus a turpis convallis commodo in in diam. Nunc finibus dolor ut auctor egestas. Ut a libero sit amet metus tincidunt dignissim. Nam et diam nibh. Fusce scelerisque sodales lectus, quis dignissim ipsum interdum eu. Aenean varius urna eget urna tempor, vel vehicula orci ultrices. Pellentesque vulputate feugiat molestie. Vivamus eu facilisis ante. Donec vel accumsan odio. In gravida mi elit, non pretium lacus pellentesque vel. Integer a porta dolor. Donec dapibus auctor ligula at egestas.Sed tempor est purus, ac faucibus enim eleifend et. Donec tempor mollis elit sed euismod. Donec bibendum nisi nisi. Sed eget vehicula ex. Integer efficitur aliquet justo, sit amet rhoncus orci egestas a. Duis nisi mauris, pellentesque at ante a, interdum ornare dui. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla in arcu a massa ullamcorper cursus sit amet in erat. Etiam vel placerat magna. Cras placerat placerat sodales. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae diam bibendum, congue ante eget, lobortis nunc. Curabitur porta dictum ex a euismod. Phasellus eu nibh sed metus eleifend accumsan. Nullam id lacus viverra, semper justo non, vulputate lacus. Donec convallis, nulla nec pulvinar elementum, mauris libero venenatis mi, nec luctus justo libero non ipsum."
+    },
+    {
+      "id": 3,
+      "title": "Third Post",
+      "date": "10/Jan/2024",
+      "author": "Elham Bairamzadeh",
+      "poster": "/assets/images/blogImages/03.png",
+      "description": "Tincidunt at blandit sed, porta eu ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sit amet mi at enim volutpat ornare. Cras a vehicula est, id elementum leo. Etiam et metus interdum, accumsan turpis at, pharetra nisl. Suspendisse ultricies arcu non libero tempor, quis efficitur nibh euismod. Donec non risus a turpis convallis commodo in in diam. Nunc finibus dolor ut auctor egestas. Ut a libero sit amet metus tincidunt dignissim. Nam et diam nibh. Fusce scelerisque sodales lectus, quis dignissim ipsum interdum eu. Aenean varius urna eget urna tempor, vel vehicula orci ultrices. Pellentesque vulputate feugiat molestie. Vivamus eu facilisis ante. Donec vel accumsan odio. In gravida mi elit, non pretium lacus pellentesque vel. Integer a porta dolor. Donec dapibus auctor ligula at egestas.Sed tempor est purus, ac faucibus enim eleifend et. Donec tempor mollis elit sed euismod. Donec bibendum nisi nisi. Sed eget vehicula ex. Integer efficitur aliquet justo, sit amet rhoncus orci egestas a. Duis nisi mauris, pellentesque at ante a, interdum ornare dui. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla in arcu a massa ullamcorper cursus sit amet in erat. Etiam vel placerat magna. Cras placerat placerat sodales. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae diam bibendum, congue ante eget, lobortis nunc. Curabitur porta dictum ex a euismod. Phasellus eu nibh sed metus eleifend accumsan. Nullam id lacus viverra, semper justo non, vulputate lacus. Donec convallis, nulla nec pulvinar elementum, mauris libero venenatis mi, nec luctus justo libero non ipsum."
+    },
+    {
+      "id": 4,
+      "title": "Fourth Post",
+      "date": "01/Feb/2024",
+      "author": "Majid Zanjani",
+      "poster": "/assets/images/blogImages/04.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ipsum erat, faucibus quis ante sit amet, vehicula venenatis nunc. Fusce a magna arcu. Vestibulum nisl mauris, tincidunt at blandit sed, porta eu ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sit amet mi at enim volutpat ornare. Cras a vehicula est, id elementum leo. Etiam et metus interdum, accumsan turpis at, pharetra nisl. Suspendisse ultricies arcu non libero tempor, quis efficitur nibh euismod. Curabitur porta dictum ex a euismod. Phasellus eu nibh sed metus eleifend accumsan. Nullam id lacus viverra, semper justo non, vulputate lacus. Donec convallis, nulla nec pulvinar elementum, mauris libero venenatis mi, nec luctus justo libero non ipsum."
+    },
+    {
+      "id": 5,
+      "title": "Fifth Post",
+      "date": "02/Feb/2024",
+      "author": "Majid Zanjani",
+      "poster": "/assets/images/blogImages/05.png",
+      "description": "Donec non risus a turpis convallis commodo in in diam. Nunc finibus dolor ut auctor egestas. Ut a libero sit amet metus tincidunt dignissim. Nam et diam nibh. Fusce scelerisque sodales lectus, quis dignissim ipsum interdum eu. Aenean varius urna eget urna tempor, vel vehicula orci ultrices. Pellentesque vulputate feugiat molestie. Vivamus eu facilisis ante. Donec vel accumsan odio. In gravida mi elit, non pretium lacus pellentesque vel. Integer a porta dolor. Donec dapibus auctor ligula at egestas.Sed tempor est purus, ac faucibus enim eleifend et. Donec tempor mollis elit sed euismod. Donec bibendum nisi nisi. Sed eget vehicula ex. Integer efficitur aliquet justo, sit amet rhoncus orci egestas a. Duis nisi mauris, pellentesque at ante a, interdum ornare dui. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla in arcu a massa ullamcorper cursus sit amet in erat. Etiam vel placerat magna. Cras placerat placerat sodales. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae diam bibendum, congue ante eget, lobortis nunc. Curabitur porta dictum ex a euismod. Phasellus eu nibh sed metus eleifend accumsan. Nullam id lacus viverra, semper justo non, vulputate lacus. Donec convallis, nulla nec pulvinar elementum, mauris libero venenatis mi, nec luctus justo libero non ipsum."
+    },
+    {
+      "id": 6,
+      "title": "Sixth Post",
+      "date": "14/Feb/2024",
+      "author": "Elham Bairamzadeh",
+      "poster": "/assets/images/blogImages/06.png",
+      "description": "Donec non risus a turpis convallis commodo in in diam. Nunc finibus dolor ut auctor egestas. Ut a libero sit amet metus tincidunt dignissim. Nam et diam nibh. Fusce scelerisque sodales lectus, quis dignissim ipsum interdum eu. Aenean varius urna eget urna tempor, vel vehicula orci ultrices. Pellentesque vulputate feugiat molestie. Vivamus eu facilisis ante. Donec vel accumsan odio. In gravida mi elit, non pretium lacus pellentesque vel. Integer a porta dolor. Donec dapibus auctor ligula at egestas.Sed tempor est purus, ac faucibus enim eleifend et. Donec tempor mollis elit sed euismod. Donec bibendum nisi nisi. Sed eget vehicula ex. Integer efficitur aliquet justo, sit amet rhoncus orci egestas a. Duis nisi mauris, pellentesque at ante a, interdum ornare dui. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla in arcu a massa ullamcorper cursus sit amet in erat. Etiam vel placerat magna. Cras placerat placerat sodales. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae diam bibendum, congue ante eget, lobortis nunc. Curabitur porta dictum ex a euismod. Phasellus eu nibh sed metus eleifend accumsan. Nullam id lacus viverra, semper justo non, vulputate lacus. Donec convallis, nulla nec pulvinar elementum, mauris libero venenatis mi, nec luctus justo libero non ipsum."
+    }
+  ],
+  "team": [
+    {
+      "id": 1,
+      "name": "Majid Zanjani",
+      "photo": "./assets/images/majidzanjani.jpg",
+      "position": "Information Tech & Coding Teacher",
+      "joiningDate": "August 2022",
+      "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at augue est. Etiam a volutpat enim. Duis interdum posuere leo, eu sollicitudin purus venenatis lobortis. Nam eget justo elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In a volutpat quam. Mauris nibh ligula, maximus in nisi fringilla, cursus varius odio. Etiam condimentum nunc risus, eu elementum leo varius pretium. Nullam dignissim at eros quis pretium. Sed venenatis gravida ultrices. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec semper venenatis sem eget molestie. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at augue est. Etiam a volutpat enim. Duis interdum posuere leo, eu sollicitudin purus venenatis lobortis. Nam eget justo elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In a volutpat quam. Mauris nibh ligula, maximus in nisi fringilla, cursus varius odio. Etiam condimentum nunc risus, eu elementum leo varius pretium. Nullam dignissim at eros quis pretium. Sed venenatis gravida ultrices. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec semper venenatis sem eget molestie. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at augue est. Etiam a volutpat enim. Duis interdum posuere leo, eu sollicitudin purus venenatis lobortis. Nam eget justo elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In a volutpat quam. Mauris nibh ligula, maximus in nisi fringilla, cursus varius odio. Etiam condimentum nunc risus, eu elementum leo varius pretium. Nullam dignissim at eros quis pretium. Sed venenatis gravida ultrices. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec semper venenatis sem eget molestie. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at augue est. Etiam a volutpat enim. Duis interdum posuere leo, eu sollicitudin purus venenatis lobortis. Nam eget justo elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In a volutpat quam. Mauris nibh ligula, maximus in nisi fringilla, cursus varius odio. Etiam condimentum nunc risus, eu elementum leo varius pretium. Nullam dignissim at eros quis pretium. Sed venenatis gravida ultrices. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec semper venenatis sem eget molestie."
+    },
+    {
+      "id": 2,
+      "name": "Elham Bairamzadeh",
+      "photo": "./assets/images/elham.jpeg",
+      "position": "German Language Teacher",
+      "joiningDate": "October 2023",
+      "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at augue est.Mauris nibh ligula, maximus in nisi fringilla, cursus varius odio. Etiam condimentum nunc risus, eu elementum leo varius pretium. Nullam dignissim at eros quis pretium. Sed venenatis gravida ultrices. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec semper venenatis sem eget molestie. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at augue est.Mauris nibh ligula, maximus in nisi fringilla, cursus varius odio. Etiam condimentum nunc risus, eu elementum leo varius pretium. Nullam dignissim at eros quis pretium. Sed venenatis gravida ultrices. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec semper venenatis sem eget molestie."
+    },
+    {
+      "id": 3,
+      "name": "Leonard Collins",
+      "photo": "./assets/images/person.png",
+      "position": "Math Teacher",
+      "joiningDate": "August 2022",
+      "info": "Etiam a volutpat enim. Duis interdum posuere leo, eu sollicitudin purus venenatis lobortis. Nam eget justo elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In a volutpat quam. Mauris nibh ligula, maximus in nisi fringilla, cursus varius odio. Etiam condimentum nunc risus, eu elementum leo varius pretium. Nullam dignissim at eros quis pretium. Sed venenatis gravida ultrices. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec semper venenatis sem eget molestie. Etiam a volutpat enim. Duis interdum posuere leo, eu sollicitudin purus venenatis lobortis. Nam eget justo elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In a volutpat quam. Mauris nibh ligula, maximus in nisi fringilla, cursus varius odio. Etiam condimentum nunc risus, eu elementum leo varius pretium. Nullam dignissim at eros quis pretium. Sed venenatis gravida ultrices. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec semper venenatis sem eget molestie. Etiam a volutpat enim. Duis interdum posuere leo, eu sollicitudin purus venenatis lobortis. Nam eget justo elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In a volutpat quam. Mauris nibh ligula, maximus in nisi fringilla, cursus varius odio. Etiam condimentum nunc risus, eu elementum leo varius pretium. Nullam dignissim at eros quis pretium. Sed venenatis gravida ultrices. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec semper venenatis sem eget molestie. Etiam a volutpat enim. Duis interdum posuere leo, eu sollicitudin purus venenatis lobortis. Nam eget justo elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In a volutpat quam. Mauris nibh ligula, maximus in nisi fringilla, cursus varius odio. Etiam condimentum nunc risus, eu elementum leo varius pretium. Nullam dignissim at eros quis pretium. Sed venenatis gravida ultrices. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec semper venenatis sem eget molestie."
+    },
+    {
+      "id": 4,
+      "name": "Anastasia Grifield",
+      "photo": "./assets/images/person.png",
+      "position": "Sport Teacher",
+      "joiningDate": "November 2023",
+      "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at augue est. Etiam a volutpat enim. Duis interdum posuere leo, eu sollicitudin purus venenatis lobortis. Nam eget justo elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In a volutpat quam. Mauris nibh ligula, maximus in nisi fringilla, cursus varius odio. Etiam condimentum nunc risus, eu elementum leo varius pretium. Nullam dignissim at eros quis pretium. Sed venenatis gravida ultrices."
+    },
+    {
+      "id": 5,
+      "name": "Barbara D.",
+      "photo": "./assets/images/person.png",
+      "position": "Geography Teacher",
+      "joiningDate": "August 2022",
+      "info": "Mauris nibh ligula, maximus in nisi fringilla, cursus varius odio. Etiam condimentum nunc risus, eu elementum leo varius pretium. Nullam dignissim at eros quis pretium. Sed venenatis gravida ultrices. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec semper venenatis sem eget molestie."
+    }
+  ]
+}
