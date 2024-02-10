@@ -1,22 +1,22 @@
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { getDocs, collection } from "firebase/firestore";
 import { db } from "../../firebase/config";
 import { BlogCard } from './BlogCard';
 
 export const Blog = () => {
+  const blogsRef = useRef(collection(db, "blog"));
   const [blogs, setBlogs] = useState([]);
-  const blogsRef = collection(db, "blog");
 
   useEffect(() => {
     async function fetchBlogs() {
-      const data = await getDocs(blogsRef);
+      const data = await getDocs(blogsRef.current);
       setBlogs(data.docs.map((document) => (
         { ...document.data(), id: document.id }
       )));
-    }
-    console.log('-----');
+    };
+    console.log('------');
     fetchBlogs();
-  }, [])
+  }, [blogsRef])
 
   return (
     <main className="flex flex-wrap">

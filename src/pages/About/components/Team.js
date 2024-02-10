@@ -1,22 +1,22 @@
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef } from "react";
 import { getDocs, collection } from "firebase/firestore";
 import { db } from "../../../firebase/config";
 import { TeamCard, Info } from "./index";
 
 export const Team = () => {
   const [teachers, setTeachers] = useState([]);
-  const teamRef = collection(db, "team");
+  const teamRef = useRef(collection(db, "team"));
 
   useEffect(() => {
     async function fetchTeacher() {
-      const data = await getDocs(teamRef);
+      const data = await getDocs(teamRef.current);
       setTeachers(data.docs.map((document) => (
         { ...document.data(), id: document.id }
       )));
     }
     console.log('-----');
     fetchTeacher();
-  }, [])
+  }, [teamRef])
 
   return (
     <div className="relative">
